@@ -17,7 +17,7 @@ Atualmente dedicado a aprender e crescer como desenvolvedor, com foco em Desenvo
 </p>
 
 ## Sobre mim
-- Gosto bastante da área de Desenvolvimento Web
+- Tenho bastante interesse na área de Desenvolvimento Web
 - Amante de animais, cultura otaku (animes & mangás) e música
 - Sempre buscando aprender coisas novas 
 
