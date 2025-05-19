@@ -1,4 +1,4 @@
-# Olá, eu sou o Daniel Gonçalves!
+# Olá, eu sou Daniel Gonçalves!
 
 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Senac.
 Atualmente dedicado a aprender e crescer como desenvolvedor, com foco em Desenvolvimento Web.
