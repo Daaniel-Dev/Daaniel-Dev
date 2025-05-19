@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou o Daniel Gonçalves!
 
-<!--
-**Daaniel-Dev/Daaniel-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Senac.
+Atualmente dedicado a aprender e crescer como desenvolvedor, com foco em sites.
 
-Here are some ideas to get you started:
+## Skills & Tecnologias
+- Python
+- JavaScript
+- SQL
+- HTML5 & CSS3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+- Gosto bastante da área de Desenvolvimento Web
+- Amante de animais, cultura otaku (animes & mangás) e música
+- Sempre buscando aprender coisas novas 
+
+## Vamos Conectar!
+- Discord: daniel_freitas1
+- Outlook: daniel.freitas0020016049@edu.pe.senac.br
+
+---
+
+> “O sucesso é a soma de pequenos esforços repetidos dia após dia.” – Robert Collier
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Daaniel-Dev&show_icons=true&theme=radical" alt="Daaniel-Dev's stats" />
+</div>
