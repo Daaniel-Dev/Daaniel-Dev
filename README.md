@@ -4,10 +4,10 @@ Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Senac.
 Atualmente dedicado a aprender e crescer como desenvolvedor, com foco em Desenvolvimento Web.
 
 ## Skills & Tecnologias
-- Python
-- JavaScript
+- Python 
+- JavaScript (Iniciante)
 - SQL
-- HTML5 & CSS3
+- HTML5 & CSS3 (Iniciante)
   <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
