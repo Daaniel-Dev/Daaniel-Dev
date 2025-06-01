@@ -1,4 +1,4 @@
-# Olá, eu sou Daniel Gonçalves!
+# Olá, eu sou Daniel Gonçalves
 
 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Senac.
 Atualmente dedicado a aprender e crescer como desenvolvedor, com foco em Desenvolvimento Web.
@@ -18,10 +18,10 @@ Atualmente dedicado a aprender e crescer como desenvolvedor, com foco em Desenvo
 
 ## Sobre mim
 - Tenho bastante interesse na área de Desenvolvimento Web
-- Amante de animais, cultura otaku (animes & mangás) e música
+- Amante de animais, animes, mangás e música
 - Sempre buscando aprender coisas novas 
 
-## Vamos Conectar!
+## Contatos
 - Discord: daniel_freitas1
 - Outlook: daniel.freitas0020016049@edu.pe.senac.br
 
