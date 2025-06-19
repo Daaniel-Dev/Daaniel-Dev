@@ -22,11 +22,3 @@ Atualmente dedicado a aprender e crescer como Desenvolvedor Back-End Python.
 ## Contatos
 - Discord: daniel_freitas1
 - Outlook: daniel.freitas0020016049@edu.pe.senac.br
-
----
-
-> “O sucesso é a soma de pequenos esforços repetidos dia após dia.” – Robert Collier
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daaniel-Dev&show_icons=true&theme=radical" alt="Daaniel-Dev's stats" />
-</div>
