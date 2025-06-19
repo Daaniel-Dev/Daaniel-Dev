@@ -1,16 +1,14 @@
 # Olá, eu sou Daniel Gonçalves
 
 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Senac.
-Atualmente dedicado a aprender e crescer como desenvolvedor, com foco em Desenvolvimento Web.
+Atualmente dedicado a aprender e crescer como Desenvolvedor Back-End Python.
 
 ## Skills & Tecnologias
 - Python 
-- JavaScript (Iniciante)
 - SQL
-- HTML5 & CSS3 (Iniciante)
+- HTML e CSS
   <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
